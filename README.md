@@ -41,8 +41,8 @@ $ npm run lambda:dev
 $ npm run lambda:deploy
 ```
 
-[!WARNING]
-Para realizar o deploy da lambda é necessário configurar as credenciais da AWS utilizando o comando `aws configure` e informando o `Access Key ID`, `Secret Access Key` e `Default region name`.
+> [!WARNING]
+> Para realizar o deploy da lambda é necessário configurar as credenciais da AWS utilizando o comando `aws configure` e informando o `Access Key ID`, `Secret Access Key` e `Default region name`.
 
 ## Endpoints
 
