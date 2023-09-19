@@ -12,3 +12,6 @@ functions:
       - http:
           path: /{any+}
           method: any
+custom:
+  serverless-offline:
+    httpPort: 3001
